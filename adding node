@@ -1,5 +1,4 @@
 rimma@rimma-System-Product-Name:/opt/node$ export PATH=/opt/node:$PATH
 rimma@rimma-System-Product-Name:/opt/node$ node
 Welcome to Node.js v15.0.0-pre.
-Type ".help" for more information.
 
